@@ -254,6 +254,29 @@ p {
     width: 20px;
 }
 
+.cv.download {
+   display: flex;
+}
+
+.cv.download li {
+    list-style-type: none;
+}
+
+.cv.download .download-btn {
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    width: 50px;
+    align-items: center;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.cv.download .download-btn:hover {
+    background-color: aqua;
+}
+
 @media screen and (max-width:1000px){
     .container {
         margin: 10px;
