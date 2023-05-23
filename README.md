@@ -1,10 +1,10 @@
 # Resume-Website
 
-##Coding Challenge
+## Coding Challenge
 
 <hr>
 
-###Introduction 
+## Introduction 
 
    1. Trying to make a simple responsive website using html5 and css.
    2. Trying to maximize of using RRA - (READ, RESEARCH & ASK) to be able to finish the task.
@@ -14,5 +14,5 @@
 ## Hints for Coding Challenge
 
   - [x] Use HTML5 and CSS
-  - [x] Practice the Elements <table>, <td> and <iframe>
+  - [x] Practice the Elements table, td and iframe
   - [x] Use Media Queries
